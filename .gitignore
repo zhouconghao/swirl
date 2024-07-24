@@ -1,0 +1,11 @@
+*.gz
+*.fits
+*.pkl
+
+repos/
+forked_repos/
+
+
+*egg-info/
+
+data/
